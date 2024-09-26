@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uecgHJA30ZivuSUFVqZ2sNvKzKFhKZ8/FrRlEk92p1Y=",
+  "Hash": "SgQ+AwdUQSrYO0Fh9jIp8C/hwv5lWJBI9oRK3/xfNME=",
   "Source": "ASPNET",
   "BasePath": "_content/ASPNET",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/jarmstrong/Desktop/repos/ASPNET/wwwroot/imgs/BEST-BUY.png",
+      "SourceId": "ASPNET",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jarmstrong/Desktop/repos/ASPNET/wwwroot/",
+      "BasePath": "_content/ASPNET",
+      "RelativePath": "imgs/BEST-BUY.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imgs/BEST-BUY.png"
     },
     {
       "Identity": "/Users/jarmstrong/Desktop/repos/ASPNET/wwwroot/js/site.js",

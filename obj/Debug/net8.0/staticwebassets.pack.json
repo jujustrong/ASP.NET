@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/jarmstrong/Desktop/repos/ASPNET/wwwroot/imgs/BEST-BUY.png",
+      "PackagePath": "staticwebassets/imgs/BEST-BUY.png"
+    },
+    {
       "Id": "/Users/jarmstrong/Desktop/repos/ASPNET/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
