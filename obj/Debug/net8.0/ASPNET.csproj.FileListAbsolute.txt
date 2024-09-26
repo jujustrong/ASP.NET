@@ -48,3 +48,4 @@
 /Users/jarmstrong/Desktop/repos/ASPNET/obj/Debug/net8.0/ASPNET.pdb
 /Users/jarmstrong/Desktop/repos/ASPNET/obj/Debug/net8.0/ASPNET.genruntimeconfig.cache
 /Users/jarmstrong/Desktop/repos/ASPNET/obj/Debug/net8.0/ref/ASPNET.dll
+/Users/jarmstrong/Desktop/repos/ASPNET/obj/Debug/net8.0/ASPNET.sourcelink.json

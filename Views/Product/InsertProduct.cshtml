@@ -1,0 +1,33 @@
+@model Product
+
+<h2>Create a New Product</h2>
+
+@using (Html.BeginForm("InsertProductToDatabase", "Product", "Post"))
+{
+    <input asp-for="ProductID" type="hidden" value="" />
+
+    <label asp-for="Name" class="control-label">Name</label>
+    <input type="text" name="Name" class="form-control" value="" />
+    <p></p>
+
+    <label asp-for="Price" class="control-label">Price</label>
+    <input type="number" step="1" name="Price" class="form-control" />
+    <p></p>
+    
+    <label asp-for="StockLevel" class="control-label">StockLevel</label>
+    <input type="number" step="1" name="StockLevel" class="form-control" />
+    <p></p>
+
+    <div class="form-group">
+        <label for="">Select a Category</label>
+        <select class="form-control" name="CategoryID" value="">
+            @foreach (var cat in Model.Categories)
+            {
+                <option value="@cat.CategoryID">@cat.CategoryID @cat.Name</option>
+            }
+        </select>
+    </div>
+    
+    <p></p>
+    <input type="submit" value="Create Product" class="btn btn-primary" />
+}
