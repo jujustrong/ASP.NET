@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/jarmstrong/Desktop/repos/ASPNET/wwwroot/fonts/Chopin-Trial-BlackItalic-BF65b1d6923aa3d.otf",
+      "PackagePath": "staticwebassets/fonts/Chopin-Trial-BlackItalic-BF65b1d6923aa3d.otf"
+    },
+    {
+      "Id": "/Users/jarmstrong/Desktop/repos/ASPNET/wwwroot/fonts/Palace-of-Sports.otf",
+      "PackagePath": "staticwebassets/fonts/Palace-of-Sports.otf"
+    },
+    {
+      "Id": "/Users/jarmstrong/Desktop/repos/ASPNET/wwwroot/fonts/Righteous-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Righteous-Regular.ttf"
+    },
+    {
+      "Id": "/Users/jarmstrong/Desktop/repos/ASPNET/wwwroot/fonts/hellprint.ttf",
+      "PackagePath": "staticwebassets/fonts/hellprint.ttf"
+    },
+    {
       "Id": "/Users/jarmstrong/Desktop/repos/ASPNET/wwwroot/imgs/BEST-BUY.png",
       "PackagePath": "staticwebassets/imgs/BEST-BUY.png"
     },
